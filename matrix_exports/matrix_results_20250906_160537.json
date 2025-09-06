@@ -1,0 +1,18 @@
+[
+  {
+    "url": "facebook.com",
+    "title": "MATRIX ERROR",
+    "content": "ERROR: Invalid URL 'facebook.com': No scheme supplied. Perhaps you meant https://facebook.com?",
+    "full_content": "ERROR: Invalid URL 'facebook.com': No scheme supplied. Perhaps you meant https://facebook.com?",
+    "raw_html": "",
+    "status_code": 0,
+    "load_time": 0.0,
+    "word_count": 0,
+    "char_count": 0,
+    "links_found": 0,
+    "images_found": 0,
+    "domain": "",
+    "timestamp": "2025-09-06T16:05:37.268956",
+    "content_type": "error"
+  }
+]
