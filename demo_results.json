@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://httpbin.org/html",
+    "title": "Page from https://httpbin.org/html",
+    "content": "<!DOCTYPE html>\n<html>\n  <head>\n  </head>\n  <body>\n      <h1>Herman Melville - Moby-Dick</h1>\n\n      <div>\n        <p>\n          Availing himself of the mild, summer-cool weather that now reigned in these latitudes, and in preparation for the peculiarly active pursuits shortly to be anticipated, Perth, the begrimed, blistered old blacksmith, had not removed his portable forge to the hold again, after concluding his contributory work for Ahab's leg, but still retained it on deck, fast lashed to r",
+    "status_code": 200,
+    "load_time": 0.37597084045410156,
+    "timestamp": "2025-09-06T14:00:30.855818"
+  },
+  {
+    "url": "https://httpbin.org/json",
+    "title": "Page from https://httpbin.org/json",
+    "content": "{\n  \"slideshow\": {\n    \"author\": \"Yours Truly\", \n    \"date\": \"date of publication\", \n    \"slides\": [\n      {\n        \"title\": \"Wake up to WonderWidgets!\", \n        \"type\": \"all\"\n      }, \n      {\n        \"items\": [\n          \"Why <em>WonderWidgets</em> are great\", \n          \"Who <em>buys</em> WonderWidgets\"\n        ], \n        \"title\": \"Overview\", \n        \"type\": \"all\"\n      }\n    ], \n    \"title\": \"Sample Slide Show\"\n  }\n}\n",
+    "status_code": 200,
+    "load_time": 0.028803110122680664,
+    "timestamp": "2025-09-06T14:00:31.885811"
+  },
+  {
+    "url": "https://example.com",
+    "title": "Page from https://example.com",
+    "content": "<!doctype html>\n<html>\n<head>\n    <title>Example Domain</title>\n\n    <meta charset=\"utf-8\" />\n    <meta http-equiv=\"Content-type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n    <style type=\"text/css\">\n    body {\n        background-color: #f0f0f2;\n        margin: 0;\n        padding: 0;\n        font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n    ",
+    "status_code": 200,
+    "load_time": 0.33136892318725586,
+    "timestamp": "2025-09-06T14:00:33.218835"
+  }
+]
