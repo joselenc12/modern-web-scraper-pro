@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "export_timestamp": "2025-09-06T15:17:31.548997",
+    "total_results": 6,
+    "successful_scrapes": 6,
+    "failed_scrapes": 0,
+    "scraper_version": "Advanced Web Scraper Pro v1.0",
+    "developer": "Jose L Encarnacion (JoseTusabe)"
+  },
+  "results": [
+    {
+      "url": "https://httpbin.org/html",
+      "title": "Content from httpbin.org",
+      "content": "<!DOCTYPE html>\n<html>\n  <head>\n  </head>\n  <body>\n      <h1>Herman Melville - Moby-Dick</h1>\n\n      <div>\n        <p>\n          Availing himself of the mild, summer-cool weather that now reigned in these latitudes, and in preparation for the peculiarly active pursuits shortly to be anticipated, Perth, the begrimed, blistered old blacksmith, had not removed his portable forge to the hold again, after concluding his contributory work for Ahab's leg, but still retained it on deck, fast lashed to ringbolts by the foremast; being now almost incessantly invoked by the headsmen, and harpooneers, and bowsmen to do some little job for them; altering, or repairing, or new shaping their various weapons and boat furniture. Often he would be surrounded by an eager circle, all waiting to be served; holding boat-spades, pike-heads, harpoons, and lances, and jealously watching his every sooty movement, as he toiled. Nevertheless, this old man's was a patient hammer wielded by a patient arm. No murmur, no impatience, no petulance did come from him. Silent, slow, and solemn; bowing over still further his chronically broken back, he toiled away, as if toil were life itself, and the heavy beating of his hammer the heavy beating of his heart. And so it was.—Most miserable! A peculiar walk in this old man, a certain slight but painful appearing yawing in his gait, had at an early period of the voyage excited the curiosity of the mariners. And to the importunity of their persisted questionings he had finally given in; and so it came to pass that every one now knew the shameful story of his wretched fate. Belated, and not innocently, one bitter winter's midnight, on the road running between two country towns, the blacksmith half-stupidly felt the deadly numbness stealing over him, and sought refuge in a leaning, dilapidated barn. The issue was, the loss of the extremities of both feet. Out of this revelation, part by part, at last came out the four acts of the gladness, and the one long, and as yet uncatastrophied fifth act of the grief of his life's drama. He was an old man, who, at the age of nearly sixty, had postponedly encountered that thing in sorrow's technicals called ruin. He had been an artisan of famed excellence, and with plenty to do; owned a house and garden; embraced a youthful, daughter-like, loving wife, and three blithe, ruddy children; every Sunday went to a cheerful-looking church, planted in a grove. But one night, under cover of darkness, and further concealed in a most cunning disguisement, a desperate burglar slid into his happy home, and robbed them all of everything. And darker yet to tell, the blacksmith himself did ignorantly conduct this burglar into his family's heart. It was the Bottle Conjuror! Upon the opening of that fatal cork, forth flew the fiend, and shrivelled up his home. Now, for prudent, most wise, and economic reasons, the blacksmith's shop was in the basement of his dwelling, but with a separate entrance to it; so that always had the young and loving healthy wife listened with no unhappy nervousness, but with vigorous pleasure, to the stout ringing of her young-armed old husband's hammer; whose reverberations, muffled by passing through the floors and walls, came up to her, not unsweetly, in her nursery; and so, to stout Labor's iron lullaby, the blacksmith's infants were rocked to slumber. Oh, woe on woe! Oh, Death, why canst thou not sometimes be timely? Hadst thou taken this old blacksmith to thyself ere his full ruin came upon him, then had the young widow had a delicious grief, and her orphans a truly venerable, legendary sire to dream of in their after years; and all of them a care-killing competency.\n        </p>\n      </div>\n  </body>\n</html>",
+      "clean_text": " Herman Melville - Moby-Dick Availing himself of the mild, summer-cool weather that now reigned in these latitudes, and in preparation for the peculiarly active pursuits shortly to be anticipated, Perth, the begrimed, blistered old blacksmith, had not removed his portable forge to the hold again, after concluding his contributory work for Ahab's leg, but still retained it on deck, fast lashed to ringbolts by the foremast; being now almost incessantly invoked by the headsmen, and harpooneers, and bowsmen to do some little job for them; altering, or repairing, or new shaping their various weapons and boat furniture. Often he would be surrounded by an eager circle, all waiting to be served; holding boat-spades, pike-heads, harpoons, and lances, and jealously watching his every sooty movement, as he toiled. Nevertheless, this old man's was a patient hammer wielded by a patient arm. No murmur, no impatience, no petulance did come from him. Silent, slow, and solemn; bowing over still further his chronically broken back, he toiled away, as if toil were life itself, and the heavy beating of his hammer the heavy beating of his heart. And so it was.—Most miserable! A peculiar walk in this old man, a certain slight but painful appearing yawing in his gait, had at an early period of the voyage excited the curiosity of the mariners. And to the importunity of their persisted questionings he had finally given in; and so it came to pass that every one now knew the shameful story of his wretched fate. Belated, and not innocently, one bitter winter's midnight, on the road running between two country towns, the blacksmith half-stupidly felt the deadly numbness stealing over him, and sought refuge in a leaning, dilapidated barn. The issue was, the loss of the extremities of both feet. Out of this revelation, part by part, at last came out the four acts of the gladness, and the one long, and as yet uncatastrophied fifth act of the grief of his life's drama. He was an old man, who, at the age of nearly sixty, had postponedly encountered that thing in sorrow's technicals called ruin. He had been an artisan of famed excellence, and with plenty to do; owned a house and garden; embraced a youthful, daughter-like, loving wife, and three blithe, ruddy children; every Sunday went to a cheerful-looking church, planted in a grove. But one night, under cover of darkness, and further concealed in a most cunning disguisement, a desperate burglar slid into his happy home, and robbed them all of everything. And darker yet to tell, the blacksmith himself did ignorantly conduct this burglar into his family's heart. It was the Bottle Conjuror! Upon the opening of that fatal cork, forth flew the fiend, and shrivelled up his home. Now, for prudent, most wise, and economic reasons, the blacksmith's shop was in the basement of his dwelling, but with a separate entrance to it; so that always had the young and loving healthy wife listened with no unhappy nervousness, but with vigorous pleasure, to the stout ringing of her young-armed old husband's hammer; whose reverberations, muffled by passing through the floors and walls, came up to her, not unsweetly, in her nursery; and so, to stout Labor's iron lullaby, the blacksmith's infants were rocked to slumber. Oh, woe on woe! Oh, Death, why canst thou not sometimes be timely? Hadst thou taken this old blacksmith to thyself ere his full ruin came upon him, then had the young widow had a delicious grief, and her orphans a truly venerable, legendary sire to dream of in their after years; and all of them a care-killing competency. ",
+      "status_code": 200,
+      "load_time": 0.2675955295562744,
+      "timestamp": "2025-09-06T15:17:23.708531",
+      "word_count": 605,
+      "links_found": 0,
+      "images_found": 0,
+      "domain": "httpbin.org",
+      "content_type": "text/html; charset=utf-8",
+      "meta_description": "",
+      "meta_keywords": "",
+      "headers": {
+        "Date": "Sat, 06 Sep 2025 22:17:22 GMT",
+        "Content-Type": "text/html; charset=utf-8",
+        "Content-Length": "3741",
+        "Connection": "keep-alive",
+        "Server": "gunicorn/19.9.0",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": "true"
+      },
+      "response_size": 3741,
+      "language": "en",
+      "encoding": "utf-8",
+      "links_list": [],
+      "images_list": [],
+      "structured_data": {}
+    },
+    {
+      "url": "https://httpbin.org/json",
+      "title": "JSON API Response from httpbin.org",
+      "content": "{\n  \"slideshow\": {\n    \"author\": \"Yours Truly\",\n    \"date\": \"date of publication\",\n    \"slides\": [\n      {\n        \"title\": \"Wake up to WonderWidgets!\",\n        \"type\": \"all\"\n      },\n      {\n        \"items\": [\n          \"Why <em>WonderWidgets</em> are great\",\n          \"Who <em>buys</em> WonderWidgets\"\n        ],\n        \"title\": \"Overview\",\n        \"type\": \"all\"\n      }\n    ],\n    \"title\": \"Sample Slide Show\"\n  }\n}",
+      "clean_text": "author: Yours Truly date: date of publication title: Wake up to WonderWidgets! type: all Why <em>WonderWidgets</em> are great Who <em>buys</em> WonderWidgets title: Overview type: all title: Sample Slide Show",
+      "status_code": 200,
+      "load_time": 0.02326345443725586,
+      "timestamp": "2025-09-06T15:17:25.234058",
+      "word_count": 29,
+      "links_found": 0,
+      "images_found": 0,
+      "domain": "httpbin.org",
+      "content_type": "application/json",
+      "meta_description": "",
+      "meta_keywords": "",
+      "headers": {
+        "Date": "Sat, 06 Sep 2025 22:17:24 GMT",
+        "Content-Type": "application/json",
+        "Content-Length": "429",
+        "Connection": "keep-alive",
+        "Server": "gunicorn/19.9.0",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": "true"
+      },
+      "response_size": 429,
+      "language": "en",
+      "encoding": "utf-8",
+      "links_list": [],
+      "images_list": [],
+      "structured_data": {
+        "json_data": {
+          "slideshow": {
+            "author": "Yours Truly",
+            "date": "date of publication",
+            "slides": [
+              {
+                "title": "Wake up to WonderWidgets!",
+                "type": "all"
+              },
+              {
+                "items": [
+                  "Why <em>WonderWidgets</em> are great",
+                  "Who <em>buys</em> WonderWidgets"
+                ],
+                "title": "Overview",
+                "type": "all"
+              }
+            ],
+            "title": "Sample Slide Show"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://example.com",
+      "title": "Content from example.com",
+      "content": "<!doctype html>\n<html>\n<head>\n    <title>Example Domain</title>\n\n    <meta charset=\"utf-8\" />\n    <meta http-equiv=\"Content-type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n    <style type=\"text/css\">\n    body {\n        background-color: #f0f0f2;\n        margin: 0;\n        padding: 0;\n        font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n        \n    }\n    div {\n        width: 600px;\n        margin: 5em auto;\n        padding: 2em;\n        background-color: #fdfdff;\n        border-radius: 0.5em;\n        box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);\n    }\n    a:link, a:visited {\n        color: #38488f;\n        text-decoration: none;\n    }\n    @media (max-width: 700px) {\n        div {\n            margin: 0 auto;\n            width: auto;\n        }\n    }\n    </style>    \n</head>\n\n<body>\n<div>\n    <h1>Example Domain</h1>\n    <p>This domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission.</p>\n    <p><a href=\"https://www.iana.org/domains/example\">More information...</a></p>\n</div>\n</body>\n</html>\n",
+      "clean_text": " Example Domain body { background-color: #f0f0f2; margin: 0; padding: 0; font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; } div { width: 600px; margin: 5em auto; padding: 2em; background-color: #fdfdff; border-radius: 0.5em; box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02); } a:link, a:visited { color: #38488f; text-decoration: none; } @media (max-width: 700px) { div { margin: 0 auto; width: auto; } } Example Domain This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission. More information... ",
+      "status_code": 200,
+      "load_time": 0.1810319423675537,
+      "timestamp": "2025-09-06T15:17:26.916753",
+      "word_count": 93,
+      "links_found": 1,
+      "images_found": 0,
+      "domain": "example.com",
+      "content_type": "text/html",
+      "meta_description": "",
+      "meta_keywords": "",
+      "headers": {
+        "Accept-Ranges": "bytes",
+        "Content-Type": "text/html",
+        "ETag": "\"84238dfc8092e5d9c0dac8ef93371a07:1736799080.121134\"",
+        "Last-Modified": "Mon, 13 Jan 2025 20:11:20 GMT",
+        "Vary": "Accept-Encoding",
+        "Content-Encoding": "gzip",
+        "Cache-Control": "max-age=86000",
+        "Date": "Sat, 06 Sep 2025 22:17:25 GMT",
+        "Alt-Svc": "h3=\":443\"; ma=93600,h3-29=\":443\"; ma=93600",
+        "Content-Length": "648",
+        "Connection": "keep-alive"
+      },
+      "response_size": 1256,
+      "language": "en",
+      "encoding": "ISO-8859-1",
+      "links_list": [],
+      "images_list": [],
+      "structured_data": {}
+    },
+    {
+      "url": "https://httpbin.org/user-agent",
+      "title": "JSON API Response from httpbin.org",
+      "content": "{\n  \"user-agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n}",
+      "clean_text": "user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "status_code": 200,
+      "load_time": 0.02942800521850586,
+      "timestamp": "2025-09-06T15:17:28.448223",
+      "word_count": 13,
+      "links_found": 0,
+      "images_found": 0,
+      "domain": "httpbin.org",
+      "content_type": "application/json",
+      "meta_description": "",
+      "meta_keywords": "",
+      "headers": {
+        "Date": "Sat, 06 Sep 2025 22:17:27 GMT",
+        "Content-Type": "application/json",
+        "Content-Length": "134",
+        "Connection": "keep-alive",
+        "Server": "gunicorn/19.9.0",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": "true"
+      },
+      "response_size": 134,
+      "language": "en",
+      "encoding": "utf-8",
+      "links_list": [],
+      "images_list": [],
+      "structured_data": {
+        "json_data": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+      }
+    },
+    {
+      "url": "https://httpbin.org/headers",
+      "title": "JSON API Response from httpbin.org",
+      "content": "{\n  \"headers\": {\n    \"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\n    \"Accept-Encoding\": \"gzip, deflate, br\",\n    \"Accept-Language\": \"en-US,en;q=0.9,es;q=0.8\",\n    \"Cache-Control\": \"max-age=0\",\n    \"Host\": \"httpbin.org\",\n    \"Sec-Fetch-Dest\": \"document\",\n    \"Sec-Fetch-Mode\": \"navigate\",\n    \"Sec-Fetch-Site\": \"none\",\n    \"Upgrade-Insecure-Requests\": \"1\",\n    \"User-Agent\": \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\n    \"X-Amzn-Trace-Id\": \"Root=1-68bcb2f8-0054f83f4ed3c03e04c83f16\"\n  }\n}",
+      "clean_text": "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 Accept-Encoding: gzip, deflate, br Accept-Language: en-US,en;q=0.9,es;q=0.8 Cache-Control: max-age=0 Host: httpbin.org Sec-Fetch-Dest: document Sec-Fetch-Mode: navigate Sec-Fetch-Site: none Upgrade-Insecure-Requests: 1 User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 X-Amzn-Trace-Id: Root=1-68bcb2f8-0054f83f4ed3c03e04c83f16",
+      "status_code": 200,
+      "load_time": 0.03860640525817871,
+      "timestamp": "2025-09-06T15:17:29.989484",
+      "word_count": 33,
+      "links_found": 0,
+      "images_found": 0,
+      "domain": "httpbin.org",
+      "content_type": "application/json",
+      "meta_description": "",
+      "meta_keywords": "",
+      "headers": {
+        "Date": "Sat, 06 Sep 2025 22:17:28 GMT",
+        "Content-Type": "application/json",
+        "Content-Length": "605",
+        "Connection": "keep-alive",
+        "Server": "gunicorn/19.9.0",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": "true"
+      },
+      "response_size": 605,
+      "language": "en",
+      "encoding": "utf-8",
+      "links_list": [],
+      "images_list": [],
+      "structured_data": {
+        "json_data": {
+          "headers": {
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Accept-Language": "en-US,en;q=0.9,es;q=0.8",
+            "Cache-Control": "max-age=0",
+            "Host": "httpbin.org",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Upgrade-Insecure-Requests": "1",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "X-Amzn-Trace-Id": "Root=1-68bcb2f8-0054f83f4ed3c03e04c83f16"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://httpbin.org/xml",
+      "title": "XML Document from httpbin.org",
+      "content": "<?xml version='1.0' encoding='us-ascii'?>\n\n<!--  A SAMPLE set of slides  -->\n\n<slideshow \n    title=\"Sample Slide Show\"\n    date=\"Date of publication\"\n    author=\"Yours Truly\"\n    >\n\n    <!-- TITLE SLIDE -->\n    <slide type=\"all\">\n      <title>Wake up to WonderWidgets!</title>\n    </slide>\n\n    <!-- OVERVIEW -->\n    <slide type=\"all\">\n        <title>Overview</title>\n        <item>Why <em>WonderWidgets</em> are great</item>\n        <item/>\n        <item>Who <em>buys</em> WonderWidgets</item>\n    </slide>\n\n</slideshow>",
+      "clean_text": "Wake up to WonderWidgets! Overview Why WonderWidgets are great Who buys WonderWidgets",
+      "status_code": 200,
+      "load_time": 0.05428767204284668,
+      "timestamp": "2025-09-06T15:17:31.546066",
+      "word_count": 12,
+      "links_found": 0,
+      "images_found": 0,
+      "domain": "httpbin.org",
+      "content_type": "application/xml",
+      "meta_description": "",
+      "meta_keywords": "",
+      "headers": {
+        "Date": "Sat, 06 Sep 2025 22:17:30 GMT",
+        "Content-Type": "application/xml",
+        "Content-Length": "522",
+        "Connection": "keep-alive",
+        "Server": "gunicorn/19.9.0",
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": "true"
+      },
+      "response_size": 522,
+      "language": "en",
+      "encoding": "utf-8",
+      "links_list": [],
+      "images_list": [],
+      "structured_data": {}
+    }
+  ]
+}

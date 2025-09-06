@@ -1,0 +1,82 @@
+🚀 ADVANCED WEB SCRAPER PRO - TEXT SUMMARY REPORT
+================================================================================
+
+📊 SUMMARY STATISTICS:
+   Total URLs Processed: 6
+   Successful Scrapes: 6
+   Failed Scrapes: 0
+   Success Rate: 100.0%
+   Export Date: 2025-09-06 15:17:31
+
+📈 PERFORMANCE METRICS:
+   Total Words Extracted: 785
+   Total Links Found: 1
+   Total Images Found: 0
+   Average Load Time: 0.10 seconds
+
+📋 DETAILED RESULTS:
+--------------------------------------------------------------------------------
+
+1. ✅ Content from httpbin.org
+   URL: https://httpbin.org/html
+   Domain: httpbin.org
+   Status: 200 | Load Time: 0.27s
+   Language: en | Size: 3,741 bytes
+   Content: 605 words, 0 links, 0 images
+   Content Preview:  Herman Melville - Moby-Dick Availing himself of the mild, summer-cool weather that now reigned in these latitudes, and in preparation for the peculiarly active pursuits shortly to be anticipated, Perth, the begrimed, blistered old blacksmith, had not removed his portable forge to the hold again, af...
+
+----------------------------------------
+
+2. ✅ JSON API Response from httpbin.org
+   URL: https://httpbin.org/json
+   Domain: httpbin.org
+   Status: 200 | Load Time: 0.02s
+   Language: en | Size: 429 bytes
+   Content: 29 words, 0 links, 0 images
+   Content Preview: author: Yours Truly date: date of publication title: Wake up to WonderWidgets! type: all Why <em>WonderWidgets</em> are great Who <em>buys</em> WonderWidgets title: Overview type: all title: Sample Slide Show...
+
+----------------------------------------
+
+3. ✅ Content from example.com
+   URL: https://example.com
+   Domain: example.com
+   Status: 200 | Load Time: 0.18s
+   Language: en | Size: 1,256 bytes
+   Content: 93 words, 1 links, 0 images
+   Content Preview:  Example Domain body { background-color: #f0f0f2; margin: 0; padding: 0; font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; } div { width: 600px; margin: 5em auto; padding: 2em; background-color: #fdfdff; border-radius:...
+
+----------------------------------------
+
+4. ✅ JSON API Response from httpbin.org
+   URL: https://httpbin.org/user-agent
+   Domain: httpbin.org
+   Status: 200 | Load Time: 0.03s
+   Language: en | Size: 134 bytes
+   Content: 13 words, 0 links, 0 images
+   Content Preview: user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36...
+
+----------------------------------------
+
+5. ✅ JSON API Response from httpbin.org
+   URL: https://httpbin.org/headers
+   Domain: httpbin.org
+   Status: 200 | Load Time: 0.04s
+   Language: en | Size: 605 bytes
+   Content: 33 words, 0 links, 0 images
+   Content Preview: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8 Accept-Encoding: gzip, deflate, br Accept-Language: en-US,en;q=0.9,es;q=0.8 Cache-Control: max-age=0 Host: httpbin.org Sec-Fetch-Dest: document Sec-Fetch-Mode: navigate Sec-Fetch-Site: none Upgrade-Insecure-Requests: ...
+
+----------------------------------------
+
+6. ✅ XML Document from httpbin.org
+   URL: https://httpbin.org/xml
+   Domain: httpbin.org
+   Status: 200 | Load Time: 0.05s
+   Language: en | Size: 522 bytes
+   Content: 12 words, 0 links, 0 images
+   Content Preview: Wake up to WonderWidgets! Overview Why WonderWidgets are great Who buys WonderWidgets...
+
+----------------------------------------
+
+🚀 Advanced Web Scraper Pro - Developed by Jose L Encarnacion (JoseTusabe)
+🏢 SoloYLibre Web Dev - New York, United States
+📧 admin@soloylibre.com | 🌐 GitHub: @joselenc12
