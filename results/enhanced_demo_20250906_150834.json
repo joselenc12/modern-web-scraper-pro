@@ -1,0 +1,72 @@
+[
+  {
+    "url": "https://httpbin.org/html",
+    "title": "Page from httpbin.org",
+    "content": "<!DOCTYPE html>\n<html>\n  <head>\n  </head>\n  <body>\n      <h1>Herman Melville - Moby-Dick</h1>\n\n      <div>\n        <p>\n          Availing himself of the mild, summer-cool weather that now reigned in these latitudes, and in preparation for the peculiarly active pursuits shortly to be anticipated, Perth, the begrimed, blistered old blacksmith, had not removed his portable forge to the hold again, after concluding his contributory work for Ahab's leg, but still retained it on deck, fast lashed to ringbolts by the foremast; being now almost incessantly invoked by the headsmen, and harpooneers, and bowsmen to do some little job for them; altering, or repairing, or new shaping their various weapons and boat furniture. Often he would be surrounded by an eager circle, all waiting to be served; holding boat-spades, pike-heads, harpoons, and lances, and jealously watching his every sooty movement, as he toiled. Nevertheless, this old man's was a patient hammer wielded by a patient arm. No murmur",
+    "status_code": 200,
+    "load_time": 0.29785633087158203,
+    "timestamp": "2025-09-06T15:08:30.553516",
+    "word_count": 150,
+    "links_found": 0,
+    "images_found": 0,
+    "domain": "httpbin.org",
+    "content_type": "text/html; charset=utf-8",
+    "meta_description": "HTML content"
+  },
+  {
+    "url": "https://httpbin.org/json",
+    "title": "JSON Data from httpbin.org",
+    "content": "{\n  \"slideshow\": {\n    \"author\": \"Yours Truly\",\n    \"date\": \"date of publication\",\n    \"slides\": [\n      {\n        \"title\": \"Wake up to WonderWidgets!\",\n        \"type\": \"all\"\n      },\n      {\n        \"items\": [\n          \"Why <em>WonderWidgets</em> are great\",\n          \"Who <em>buys</em> WonderWidgets\"\n        ],\n        \"title\": \"Overview\",\n        \"type\": \"all\"\n      }\n    ],\n    \"title\": \"Sample Slide Show\"\n  }\n}",
+    "status_code": 200,
+    "load_time": 0.0816507339477539,
+    "timestamp": "2025-09-06T15:08:31.635951",
+    "word_count": 44,
+    "links_found": 0,
+    "images_found": 0,
+    "domain": "httpbin.org",
+    "content_type": "application/json",
+    "meta_description": "JSON API Response"
+  },
+  {
+    "url": "https://example.com",
+    "title": "Page from example.com",
+    "content": "<!doctype html>\n<html>\n<head>\n    <title>Example Domain</title>\n\n    <meta charset=\"utf-8\" />\n    <meta http-equiv=\"Content-type\" content=\"text/html; charset=utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n    <style type=\"text/css\">\n    body {\n        background-color: #f0f0f2;\n        margin: 0;\n        padding: 0;\n        font-family: -apple-system, system-ui, BlinkMacSystemFont, \"Segoe UI\", \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n        \n    }\n    div {\n        width: 600px;\n        margin: 5em auto;\n        padding: 2em;\n        background-color: #fdfdff;\n        border-radius: 0.5em;\n        box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);\n    }\n    a:link, a:visited {\n        color: #38488f;\n        text-decoration: none;\n    }\n    @media (max-width: 700px) {\n        div {\n            margin: 0 auto;\n            width: auto;\n        }\n    }\n    </style>    \n</head>\n\n<body>\n<div>\n    <h1>Example Domain</h1>\n    <p>This domai",
+    "status_code": 200,
+    "load_time": 0.22962713241577148,
+    "timestamp": "2025-09-06T15:08:32.870267",
+    "word_count": 92,
+    "links_found": 0,
+    "images_found": 0,
+    "domain": "example.com",
+    "content_type": "text/html",
+    "meta_description": "HTML content"
+  },
+  {
+    "url": "https://httpbin.org/user-agent",
+    "title": "JSON Data from httpbin.org",
+    "content": "{\n  \"user-agent\": \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\"\n}",
+    "status_code": 200,
+    "load_time": 0.027127742767333984,
+    "timestamp": "2025-09-06T15:08:33.899759",
+    "word_count": 13,
+    "links_found": 0,
+    "images_found": 0,
+    "domain": "httpbin.org",
+    "content_type": "application/json",
+    "meta_description": "JSON API Response"
+  },
+  {
+    "url": "https://httpbin.org/headers",
+    "title": "JSON Data from httpbin.org",
+    "content": "{\n  \"headers\": {\n    \"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\n    \"Accept-Encoding\": \"gzip, deflate\",\n    \"Accept-Language\": \"en-US,en;q=0.5\",\n    \"Host\": \"httpbin.org\",\n    \"Upgrade-Insecure-Requests\": \"1\",\n    \"User-Agent\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\",\n    \"X-Amzn-Trace-Id\": \"Root=1-68bcb0e1-35f55dde7c972efc56b49a2d\"\n  }\n}",
+    "status_code": 200,
+    "load_time": 0.021062850952148438,
+    "timestamp": "2025-09-06T15:08:34.923426",
+    "word_count": 32,
+    "links_found": 0,
+    "images_found": 0,
+    "domain": "httpbin.org",
+    "content_type": "application/json",
+    "meta_description": "JSON API Response"
+  }
+]
