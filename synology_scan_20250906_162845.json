@@ -1,0 +1,218 @@
+{
+  "target": "ultimate8",
+  "scan_time": "2025-09-06T16:27:49.200904",
+  "connectivity": {
+    "ping": true,
+    "ip_address": "192.168.1.35",
+    "dns_resolution": true
+  },
+  "web_interfaces": {
+    "http://ultimate8": {
+      "status": "accessible",
+      "status_code": 200,
+      "title": "Hello! Welcome to Synology Web Station!",
+      "content_length": 1741,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 06 Sep 2025 23:27:51 GMT",
+        "Content-Type": "text/html",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Keep-Alive": "timeout=20",
+        "Vary": "Accept-Encoding",
+        "Last-Modified": "Sun, 10 Dec 2023 12:18:12 GMT",
+        "ETag": "W/\"6575ac84-6cd\"",
+        "Content-Encoding": "gzip"
+      },
+      "is_synology": true
+    },
+    "https://ultimate8": {
+      "status": "accessible",
+      "status_code": 200,
+      "title": "Hello! Welcome to Synology Web Station!",
+      "content_length": 1741,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 06 Sep 2025 23:27:52 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "1741",
+        "Connection": "keep-alive",
+        "Keep-Alive": "timeout=20",
+        "Last-Modified": "Sun, 10 Dec 2023 12:18:12 GMT",
+        "ETag": "\"6575ac84-6cd\"",
+        "Accept-Ranges": "bytes"
+      },
+      "is_synology": true
+    },
+    "http://ultimate8:5000": {
+      "status": "accessible",
+      "status_code": 200,
+      "title": "ultimate8&nbsp;-&nbsp;Synology&nbsp;DiskStation",
+      "content_length": 10904,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 06 Sep 2025 23:27:53 GMT",
+        "Content-Type": "text/html; charset=\"UTF-8\"",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Keep-Alive": "timeout=20",
+        "Vary": "Accept-Encoding",
+        "Cache-control": "no-store",
+        "X-Content-Type-Options": "nosniff",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Frame-Options": "SAMEORIGIN",
+        "P3P": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+        "Content-Security-Policy": "base-uri 'self';  connect-src data: ws: wss: http: https:; default-src 'self' 'unsafe-eval' data: blob: https://*.synology.com https://www.synology.cn/ https://help.synology.cn/; font-src 'self' data: https://*.googleapis.com https://*.gstatic.com; form-action 'self'; frame-ancestors 'self'; frame-src 'self' data: blob: https://*.synology.com https://*.synology.cn; img-src 'self' data: blob: https://*.google.com https://*.googleapis.com http://*.googlecode.com https://*.gstatic.com https://global.download.synology.com; media-src 'self' data: about: https://*.synology.com https://help.synology.cn;  script-src 'self' 'unsafe-eval' data: blob: https://maps.google.com https://ajax.googleapis.com https://help.synology.com https://help.synology.cn; style-src 'self' 'unsafe-inline' https://*.googleapis.com;",
+        "Content-Encoding": "gzip"
+      },
+      "is_synology": true
+    },
+    "https://ultimate8:5001": {
+      "status": "accessible",
+      "status_code": 200,
+      "title": "ultimate8&nbsp;-&nbsp;Synology&nbsp;DiskStation",
+      "content_length": 10904,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 06 Sep 2025 23:27:54 GMT",
+        "Content-Type": "text/html; charset=\"UTF-8\"",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Keep-Alive": "timeout=20",
+        "Cache-control": "no-store",
+        "X-Content-Type-Options": "nosniff",
+        "X-XSS-Protection": "1; mode=block",
+        "X-Frame-Options": "SAMEORIGIN",
+        "P3P": "CP=\"IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT\"",
+        "Content-Security-Policy": "base-uri 'self';  connect-src data: ws: wss: http: https:; default-src 'self' 'unsafe-eval' data: blob: https://*.synology.com https://www.synology.cn/ https://help.synology.cn/; font-src 'self' data: https://*.googleapis.com https://*.gstatic.com; form-action 'self'; frame-ancestors 'self'; frame-src 'self' data: blob: https://*.synology.com https://*.synology.cn; img-src 'self' data: blob: https://*.google.com https://*.googleapis.com http://*.googlecode.com https://*.gstatic.com https://global.download.synology.com; media-src 'self' data: about: https://*.synology.com https://help.synology.cn;  script-src 'self' 'unsafe-eval' data: blob: https://maps.google.com https://ajax.googleapis.com https://help.synology.com https://help.synology.cn; style-src 'self' 'unsafe-inline' https://*.googleapis.com;"
+      },
+      "is_synology": true
+    },
+    "http://ultimate8:80": {
+      "status": "accessible",
+      "status_code": 200,
+      "title": "Hello! Welcome to Synology Web Station!",
+      "content_length": 1741,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 06 Sep 2025 23:27:54 GMT",
+        "Content-Type": "text/html",
+        "Transfer-Encoding": "chunked",
+        "Connection": "keep-alive",
+        "Keep-Alive": "timeout=20",
+        "Vary": "Accept-Encoding",
+        "Last-Modified": "Sun, 10 Dec 2023 12:18:12 GMT",
+        "ETag": "W/\"6575ac84-6cd\"",
+        "Content-Encoding": "gzip"
+      },
+      "is_synology": true
+    },
+    "https://ultimate8:443": {
+      "status": "accessible",
+      "status_code": 200,
+      "title": "Hello! Welcome to Synology Web Station!",
+      "content_length": 1741,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Sat, 06 Sep 2025 23:27:54 GMT",
+        "Content-Type": "text/html",
+        "Content-Length": "1741",
+        "Connection": "keep-alive",
+        "Keep-Alive": "timeout=20",
+        "Last-Modified": "Sun, 10 Dec 2023 12:18:12 GMT",
+        "ETag": "\"6575ac84-6cd\"",
+        "Accept-Ranges": "bytes"
+      },
+      "is_synology": true
+    },
+    "http://ultimate8:8080": {
+      "status": "connection_refused"
+    },
+    "https://ultimate8:8443": {
+      "status": "connection_refused"
+    }
+  },
+  "services": {
+    "open_ports": {
+      "80": {
+        "service": "HTTP",
+        "status": "open"
+      },
+      "443": {
+        "service": "HTTPS",
+        "status": "open"
+      },
+      "5000": {
+        "service": "DSM HTTP",
+        "status": "open"
+      },
+      "5001": {
+        "service": "DSM HTTPS",
+        "status": "open"
+      }
+    }
+  },
+  "api_endpoints": {
+    "http://ultimate8:5000/webapi/query.cgi": {
+      "status": "accessible",
+      "status_code": 200,
+      "content_type": "application/json; charset=\"UTF-8\"",
+      "content_preview": "{\"error\":{\"code\":101},\"success\":false}"
+    },
+    "http://ultimate8:5000/webapi/auth.cgi": {
+      "status": "accessible",
+      "status_code": 200,
+      "content_type": "application/json; charset=\"UTF-8\"",
+      "content_preview": "{\"error\":{\"code\":101},\"success\":false}"
+    },
+    "http://ultimate8:5000/webapi/entry.cgi": {
+      "status": "accessible",
+      "status_code": 200,
+      "content_type": "application/json; charset=\"UTF-8\"",
+      "content_preview": "{\"error\":{\"code\":101},\"success\":false}"
+    },
+    "http://ultimate8:5000/webman/index.cgi": {
+      "status": "accessible",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_preview": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=11\" />\n<meta name=\"msapplication-TileImage\" content=\""
+    },
+    "http://ultimate8:5000/webman/login.cgi": {
+      "status": "accessible",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_preview": "{\n   \"reason\" : \"error_cantlogin\",\n   \"result\" : \"error\",\n   \"success\" : false\n}\n"
+    },
+    "https://ultimate8:5001/webapi/query.cgi": {
+      "status": "accessible",
+      "status_code": 200,
+      "content_type": "application/json; charset=\"UTF-8\"",
+      "content_preview": "{\"error\":{\"code\":101},\"success\":false}"
+    },
+    "https://ultimate8:5001/webapi/auth.cgi": {
+      "status": "accessible",
+      "status_code": 200,
+      "content_type": "application/json; charset=\"UTF-8\"",
+      "content_preview": "{\"error\":{\"code\":101},\"success\":false}"
+    },
+    "https://ultimate8:5001/webapi/entry.cgi": {
+      "status": "accessible",
+      "status_code": 200,
+      "content_type": "application/json; charset=\"UTF-8\"",
+      "content_preview": "{\"error\":{\"code\":101},\"success\":false}"
+    },
+    "https://ultimate8:5001/webman/index.cgi": {
+      "status": "accessible",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_preview": "<!DOCTYPE html>\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=11\" />\n<meta name=\"msapplication-TileImage\" content=\""
+    },
+    "https://ultimate8:5001/webman/login.cgi": {
+      "status": "accessible",
+      "status_code": 200,
+      "content_type": "text/html; charset=\"UTF-8\"",
+      "content_preview": "{\n   \"reason\" : \"error_cantlogin\",\n   \"result\" : \"error\",\n   \"success\" : false\n}\n"
+    }
+  },
+  "system_info": {}
+}

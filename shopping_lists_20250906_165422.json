@@ -1,0 +1,834 @@
+{
+  "$200": {
+    "games": [
+      {
+        "name": "Undertale",
+        "price": 10,
+        "size_gb": 0.2,
+        "metacritic": 92,
+        "genre": "RPG",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Hollow Knight",
+        "price": 12,
+        "size_gb": 2.8,
+        "metacritic": 90,
+        "genre": "Metroidvania",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Celeste",
+        "price": 15,
+        "size_gb": 1.2,
+        "metacritic": 94,
+        "genre": "Platformer",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Shovel Knight: Treasure Trove",
+        "price": 15,
+        "size_gb": 1.7,
+        "metacritic": 91,
+        "genre": "Platformer",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Stardew Valley",
+        "price": 15,
+        "size_gb": 1.5,
+        "metacritic": 89,
+        "genre": "Simulation",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Gris",
+        "price": 15,
+        "size_gb": 4.1,
+        "metacritic": 84,
+        "genre": "Platformer",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Spiritfarer",
+        "price": 15,
+        "size_gb": 4.9,
+        "metacritic": 84,
+        "genre": "Adventure",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Enter the Gungeon",
+        "price": 15,
+        "size_gb": 2.1,
+        "metacritic": 84,
+        "genre": "Roguelike",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Katana ZERO",
+        "price": 15,
+        "size_gb": 2.8,
+        "metacritic": 83,
+        "genre": "Action",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "A Hat in Time",
+        "price": 15,
+        "size_gb": 6.1,
+        "metacritic": 79,
+        "genre": "Platformer",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Cuphead",
+        "price": 18,
+        "size_gb": 4.4,
+        "metacritic": 86,
+        "genre": "Run and Gun",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Hades",
+        "price": 20,
+        "size_gb": 5.5,
+        "metacritic": 93,
+        "genre": "Roguelike",
+        "category": "Third-Party Masterpieces"
+      }
+    ],
+    "total_cost": 180,
+    "total_size": 37.3,
+    "games_count": 12,
+    "avg_rating": 87.41666666666667
+  },
+  "$500": {
+    "games": [
+      {
+        "name": "Undertale",
+        "price": 10,
+        "size_gb": 0.2,
+        "metacritic": 92,
+        "genre": "RPG",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Hollow Knight",
+        "price": 12,
+        "size_gb": 2.8,
+        "metacritic": 90,
+        "genre": "Metroidvania",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Celeste",
+        "price": 15,
+        "size_gb": 1.2,
+        "metacritic": 94,
+        "genre": "Platformer",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Shovel Knight: Treasure Trove",
+        "price": 15,
+        "size_gb": 1.7,
+        "metacritic": 91,
+        "genre": "Platformer",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Stardew Valley",
+        "price": 15,
+        "size_gb": 1.5,
+        "metacritic": 89,
+        "genre": "Simulation",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Gris",
+        "price": 15,
+        "size_gb": 4.1,
+        "metacritic": 84,
+        "genre": "Platformer",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Spiritfarer",
+        "price": 15,
+        "size_gb": 4.9,
+        "metacritic": 84,
+        "genre": "Adventure",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Enter the Gungeon",
+        "price": 15,
+        "size_gb": 2.1,
+        "metacritic": 84,
+        "genre": "Roguelike",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Katana ZERO",
+        "price": 15,
+        "size_gb": 2.8,
+        "metacritic": 83,
+        "genre": "Action",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "A Hat in Time",
+        "price": 15,
+        "size_gb": 6.1,
+        "metacritic": 79,
+        "genre": "Platformer",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Cuphead",
+        "price": 18,
+        "size_gb": 4.4,
+        "metacritic": 86,
+        "genre": "Run and Gun",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Hades",
+        "price": 20,
+        "size_gb": 5.5,
+        "metacritic": 93,
+        "genre": "Roguelike",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Disco Elysium: The Final Cut",
+        "price": 32,
+        "size_gb": 22.0,
+        "metacritic": 97,
+        "genre": "RPG",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Divinity: Original Sin 2",
+        "price": 32,
+        "size_gb": 18.0,
+        "metacritic": 93,
+        "genre": "RPG",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Dead Cells",
+        "price": 32,
+        "size_gb": 1.1,
+        "metacritic": 91,
+        "genre": "Roguelike",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Ori and the Will of the Wisps",
+        "price": 32,
+        "size_gb": 8.8,
+        "metacritic": 90,
+        "genre": "Metroidvania",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Monster Hunter Rise",
+        "price": 32,
+        "size_gb": 10.2,
+        "metacritic": 88,
+        "genre": "Action-RPG",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Fire Emblem: Three Houses",
+        "price": 40,
+        "size_gb": 11.9,
+        "metacritic": 89,
+        "genre": "Strategy-RPG",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "Xenoblade Chronicles 3",
+        "price": 40,
+        "size_gb": 15.0,
+        "metacritic": 89,
+        "genre": "JRPG",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "Doom Eternal",
+        "price": 40,
+        "size_gb": 18.8,
+        "metacritic": 88,
+        "genre": "FPS",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "The Witcher 3: Wild Hunt Complete Edition",
+        "price": 40,
+        "size_gb": 31.5,
+        "metacritic": 85,
+        "genre": "RPG",
+        "category": "Third-Party Masterpieces"
+      }
+    ],
+    "total_cost": 500,
+    "total_size": 174.6,
+    "games_count": 21,
+    "avg_rating": 88.52380952380952
+  },
+  "$1000": {
+    "games": [
+      {
+        "name": "Undertale",
+        "price": 10,
+        "size_gb": 0.2,
+        "metacritic": 92,
+        "genre": "RPG",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Hollow Knight",
+        "price": 12,
+        "size_gb": 2.8,
+        "metacritic": 90,
+        "genre": "Metroidvania",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Celeste",
+        "price": 15,
+        "size_gb": 1.2,
+        "metacritic": 94,
+        "genre": "Platformer",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Shovel Knight: Treasure Trove",
+        "price": 15,
+        "size_gb": 1.7,
+        "metacritic": 91,
+        "genre": "Platformer",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Stardew Valley",
+        "price": 15,
+        "size_gb": 1.5,
+        "metacritic": 89,
+        "genre": "Simulation",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Gris",
+        "price": 15,
+        "size_gb": 4.1,
+        "metacritic": 84,
+        "genre": "Platformer",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Spiritfarer",
+        "price": 15,
+        "size_gb": 4.9,
+        "metacritic": 84,
+        "genre": "Adventure",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Enter the Gungeon",
+        "price": 15,
+        "size_gb": 2.1,
+        "metacritic": 84,
+        "genre": "Roguelike",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Katana ZERO",
+        "price": 15,
+        "size_gb": 2.8,
+        "metacritic": 83,
+        "genre": "Action",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "A Hat in Time",
+        "price": 15,
+        "size_gb": 6.1,
+        "metacritic": 79,
+        "genre": "Platformer",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Cuphead",
+        "price": 18,
+        "size_gb": 4.4,
+        "metacritic": 86,
+        "genre": "Run and Gun",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Hades",
+        "price": 20,
+        "size_gb": 5.5,
+        "metacritic": 93,
+        "genre": "Roguelike",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Disco Elysium: The Final Cut",
+        "price": 32,
+        "size_gb": 22.0,
+        "metacritic": 97,
+        "genre": "RPG",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Divinity: Original Sin 2",
+        "price": 32,
+        "size_gb": 18.0,
+        "metacritic": 93,
+        "genre": "RPG",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Dead Cells",
+        "price": 32,
+        "size_gb": 1.1,
+        "metacritic": 91,
+        "genre": "Roguelike",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Ori and the Will of the Wisps",
+        "price": 32,
+        "size_gb": 8.8,
+        "metacritic": 90,
+        "genre": "Metroidvania",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Monster Hunter Rise",
+        "price": 32,
+        "size_gb": 10.2,
+        "metacritic": 88,
+        "genre": "Action-RPG",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Fire Emblem: Three Houses",
+        "price": 40,
+        "size_gb": 11.9,
+        "metacritic": 89,
+        "genre": "Strategy-RPG",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "Xenoblade Chronicles 3",
+        "price": 40,
+        "size_gb": 15.0,
+        "metacritic": 89,
+        "genre": "JRPG",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "Doom Eternal",
+        "price": 40,
+        "size_gb": 18.8,
+        "metacritic": 88,
+        "genre": "FPS",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "The Witcher 3: Wild Hunt Complete Edition",
+        "price": 40,
+        "size_gb": 31.5,
+        "metacritic": 85,
+        "genre": "RPG",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "L.A. Noire",
+        "price": 40,
+        "size_gb": 27.4,
+        "metacritic": 83,
+        "genre": "Adventure",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "Mortal Kombat 11",
+        "price": 40,
+        "size_gb": 22.5,
+        "metacritic": 82,
+        "genre": "Fighting",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "Wolfenstein II: The New Colossus",
+        "price": 40,
+        "size_gb": 22.7,
+        "metacritic": 81,
+        "genre": "FPS",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "NBA 2K24",
+        "price": 40,
+        "size_gb": 45.0,
+        "metacritic": 78,
+        "genre": "Sports",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "price": 50,
+        "size_gb": 13.4,
+        "metacritic": 97,
+        "genre": "Action-Adventure",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "Super Mario Odyssey",
+        "price": 50,
+        "size_gb": 5.7,
+        "metacritic": 97,
+        "genre": "Platformer",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "Bayonetta 3",
+        "price": 40,
+        "size_gb": 15.0,
+        "metacritic": 76,
+        "genre": "Action",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "Mario Kart 8 Deluxe",
+        "price": 50,
+        "size_gb": 6.8,
+        "metacritic": 92,
+        "genre": "Racing",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "Animal Crossing: New Horizons",
+        "price": 50,
+        "size_gb": 6.2,
+        "metacritic": 90,
+        "genre": "Simulation",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "Super Mario Wonder",
+        "price": 52,
+        "size_gb": 4.1,
+        "metacritic": 92,
+        "genre": "Platformer",
+        "category": "AAA Exclusives"
+      }
+    ],
+    "total_cost": 952,
+    "total_size": 343.4,
+    "games_count": 31,
+    "avg_rating": 87.96774193548387
+  },
+  "$1500": {
+    "games": [
+      {
+        "name": "Undertale",
+        "price": 10,
+        "size_gb": 0.2,
+        "metacritic": 92,
+        "genre": "RPG",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Hollow Knight",
+        "price": 12,
+        "size_gb": 2.8,
+        "metacritic": 90,
+        "genre": "Metroidvania",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Celeste",
+        "price": 15,
+        "size_gb": 1.2,
+        "metacritic": 94,
+        "genre": "Platformer",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Shovel Knight: Treasure Trove",
+        "price": 15,
+        "size_gb": 1.7,
+        "metacritic": 91,
+        "genre": "Platformer",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Stardew Valley",
+        "price": 15,
+        "size_gb": 1.5,
+        "metacritic": 89,
+        "genre": "Simulation",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Gris",
+        "price": 15,
+        "size_gb": 4.1,
+        "metacritic": 84,
+        "genre": "Platformer",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Spiritfarer",
+        "price": 15,
+        "size_gb": 4.9,
+        "metacritic": 84,
+        "genre": "Adventure",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Enter the Gungeon",
+        "price": 15,
+        "size_gb": 2.1,
+        "metacritic": 84,
+        "genre": "Roguelike",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Katana ZERO",
+        "price": 15,
+        "size_gb": 2.8,
+        "metacritic": 83,
+        "genre": "Action",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "A Hat in Time",
+        "price": 15,
+        "size_gb": 6.1,
+        "metacritic": 79,
+        "genre": "Platformer",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Cuphead",
+        "price": 18,
+        "size_gb": 4.4,
+        "metacritic": 86,
+        "genre": "Run and Gun",
+        "category": "Indie Gems"
+      },
+      {
+        "name": "Hades",
+        "price": 20,
+        "size_gb": 5.5,
+        "metacritic": 93,
+        "genre": "Roguelike",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Disco Elysium: The Final Cut",
+        "price": 32,
+        "size_gb": 22.0,
+        "metacritic": 97,
+        "genre": "RPG",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Divinity: Original Sin 2",
+        "price": 32,
+        "size_gb": 18.0,
+        "metacritic": 93,
+        "genre": "RPG",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Dead Cells",
+        "price": 32,
+        "size_gb": 1.1,
+        "metacritic": 91,
+        "genre": "Roguelike",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Ori and the Will of the Wisps",
+        "price": 32,
+        "size_gb": 8.8,
+        "metacritic": 90,
+        "genre": "Metroidvania",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Monster Hunter Rise",
+        "price": 32,
+        "size_gb": 10.2,
+        "metacritic": 88,
+        "genre": "Action-RPG",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "Fire Emblem: Three Houses",
+        "price": 40,
+        "size_gb": 11.9,
+        "metacritic": 89,
+        "genre": "Strategy-RPG",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "Xenoblade Chronicles 3",
+        "price": 40,
+        "size_gb": 15.0,
+        "metacritic": 89,
+        "genre": "JRPG",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "Doom Eternal",
+        "price": 40,
+        "size_gb": 18.8,
+        "metacritic": 88,
+        "genre": "FPS",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "The Witcher 3: Wild Hunt Complete Edition",
+        "price": 40,
+        "size_gb": 31.5,
+        "metacritic": 85,
+        "genre": "RPG",
+        "category": "Third-Party Masterpieces"
+      },
+      {
+        "name": "L.A. Noire",
+        "price": 40,
+        "size_gb": 27.4,
+        "metacritic": 83,
+        "genre": "Adventure",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "Mortal Kombat 11",
+        "price": 40,
+        "size_gb": 22.5,
+        "metacritic": 82,
+        "genre": "Fighting",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "Wolfenstein II: The New Colossus",
+        "price": 40,
+        "size_gb": 22.7,
+        "metacritic": 81,
+        "genre": "FPS",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "NBA 2K24",
+        "price": 40,
+        "size_gb": 45.0,
+        "metacritic": 78,
+        "genre": "Sports",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "price": 50,
+        "size_gb": 13.4,
+        "metacritic": 97,
+        "genre": "Action-Adventure",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "Super Mario Odyssey",
+        "price": 50,
+        "size_gb": 5.7,
+        "metacritic": 97,
+        "genre": "Platformer",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "Bayonetta 3",
+        "price": 40,
+        "size_gb": 15.0,
+        "metacritic": 76,
+        "genre": "Action",
+        "category": "Large Games Worth It"
+      },
+      {
+        "name": "Mario Kart 8 Deluxe",
+        "price": 50,
+        "size_gb": 6.8,
+        "metacritic": 92,
+        "genre": "Racing",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "Animal Crossing: New Horizons",
+        "price": 50,
+        "size_gb": 6.2,
+        "metacritic": 90,
+        "genre": "Simulation",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "Super Mario Wonder",
+        "price": 52,
+        "size_gb": 4.1,
+        "metacritic": 92,
+        "genre": "Platformer",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "Metroid Dread",
+        "price": 52,
+        "size_gb": 4.1,
+        "metacritic": 88,
+        "genre": "Metroidvania",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "Super Smash Bros. Ultimate",
+        "price": 55,
+        "size_gb": 16.0,
+        "metacritic": 93,
+        "genre": "Fighting",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "Pikmin 4",
+        "price": 52,
+        "size_gb": 10.9,
+        "metacritic": 87,
+        "genre": "Strategy",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "The Legend of Zelda: Tears of the Kingdom",
+        "price": 60,
+        "size_gb": 18.2,
+        "metacritic": 96,
+        "genre": "Action-Adventure",
+        "category": "AAA Exclusives"
+      },
+      {
+        "name": "Splatoon 3",
+        "price": 52,
+        "size_gb": 12.0,
+        "metacritic": 83,
+        "genre": "Shooter",
+        "category": "AAA Exclusives"
+      }
+    ],
+    "total_cost": 1223,
+    "total_size": 404.59999999999997,
+    "games_count": 36,
+    "avg_rating": 88.16666666666667
+  }
+}

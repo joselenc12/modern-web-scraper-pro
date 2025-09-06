@@ -1,0 +1,35 @@
+
+🎮 NINTENDO SWITCH GAME ANALYSIS REPORT
+Generated: 2025-09-06 16:54:22
+Developer: Jose L Encarnacion (JoseTusabe)
+Company: SoloYLibre Web Dev - New York, United States
+
+📊 ANALYSIS SUMMARY:
+- Total games analyzed: 36
+- Price range: $10 - $60
+- Average price: $33.97
+- Total collection size: 404.6 GB
+- Total collection cost: $1223.00
+
+💾 2TB SSD ANALYSIS:
+- Available storage: 1750 GB
+- All games fit: YES
+- Storage utilization: 23.1%
+
+🏆 TOP 5 BEST VALUE GAMES:
+1. Undertale - $10 (Value Score: 9.2)
+2. Hollow Knight - $12 (Value Score: 7.5)
+3. Celeste - $15 (Value Score: 6.27)
+4. Shovel Knight: Treasure Trove - $15 (Value Score: 6.07)
+5. Stardew Valley - $15 (Value Score: 5.93)
+
+💰 BUDGET RECOMMENDATIONS:
+- $200 Budget: 12 games, $180.00
+- $500 Budget: 21 games, $500.00
+- $1000 Budget: 31 games, $952.00
+
+💎 ESSENTIAL COLLECTION:
+- Games: 8
+- Cost: $267.00
+- Size: 52.9 GB
+- Avg Rating: 93.1
